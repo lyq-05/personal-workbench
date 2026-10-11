@@ -1,0 +1,14 @@
+# Public repository is a release-materials allowlist, never a source repository.
+/*
+!/.gitignore
+!/README.md
+!/CHANGELOG.md
+!/SHA256SUMS.txt
+!/docs/
+/docs/*
+!/docs/*.md
+!/docs/screenshots/
+/docs/screenshots/*
+!/docs/screenshots/*.png
+# Installers are GitHub Release assets, not Git objects.
+/releases/

@@ -1,0 +1,2 @@
+e6d6b1f98354dcbe87465db007b75c364eb1cd0a0e9b5884fd70b729a1acd7b7  personal-workbench-v0.1.1-windows-x64-setup.exe
+2ff411b4dee48fe6ba1a85e307b663f7bc0f9cad051c2f9dd9e09322a3852c81  personal-workbench-v0.1.1-android.apk
